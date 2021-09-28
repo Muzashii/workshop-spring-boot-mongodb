@@ -1,4 +1,4 @@
-package com.MuzashiWeb.course;
+package com.MuzashiWeb.workshopmongo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
